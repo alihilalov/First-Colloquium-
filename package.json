@@ -1,0 +1,24 @@
+{
+  "name": "first-colloquium--1",
+  "version": "1.0.0",
+  "description": "This is for HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass src/scss/main.scss src/css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihilalov/First-Colloquium-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alihilalov/First-Colloquium-/issues"
+  },
+  "homepage": "https://github.com/alihilalov/First-Colloquium-#readme",
+  "devDependencies": {
+    "sass": "^1.71.0"
+  }
+}
